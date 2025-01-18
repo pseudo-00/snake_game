@@ -39,26 +39,10 @@ python snake_game.py
 ## Controls
 
 - Arrow keys to change the direction of the snake:
-  - 
-
-UP
-
- arrow key to move up
-  - 
-
-DOWN
-
- arrow key to move down
-  - 
-
-LEFT
-
- arrow key to move left
-  - 
-
-RIGHT
-
- arrow key to move right
+  - UP arrow key to move up
+  - DOWN arrow key to move down
+  - LEFT arrow key to move left
+  - RIGHT arrow key to move right
 
 ## How to Play
 
@@ -102,5 +86,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Contact
 
-If you have any questions or suggestions, feel free to contact me at [rankiratsingh00@gmail.com].
-```
+If you have any questions or suggestions, feel free to contact me at [rankiratsingh00@gmail.com](rankiratsingh00@gmail.com).
