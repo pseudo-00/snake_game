@@ -22,7 +22,7 @@ BLACK = (0,0,0)
 
 
 BLOCK_SIZE = 20
-SPEED = 12
+SPEED = 15
 
 class SnakeGame():
 
