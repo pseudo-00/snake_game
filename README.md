@@ -18,7 +18,7 @@ The Snake game is a classic arcade game where the player controls a snake that m
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/pseudo-00/snake_game.git
+git clone https://github.com/rankirat-singh/snake_game.git
 cd snake_game
 ```
 
